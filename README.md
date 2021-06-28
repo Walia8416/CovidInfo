@@ -1,13 +1,3 @@
-<p align="center">
-  <a href="#calling-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#eyes-preview">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#gear-core-tech-stack">Tech Stack</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#sparkles-main-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#camera_flash-screenshots">Screenshots</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license-">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#warning-disclaimer">Disclaimer</a>
-</p>
-
 
 <div align="center">
   <img src="./assets/icon.png" alt="App brand icon" | width=400 />
@@ -54,9 +44,6 @@ Due to the nature of this project objective being an educational and experimenta
 For this, please refer to the app screenshots below. A mixture of both screenshot pictures and GIFs is provided as an alternative for previewing the app.
 
 ## :gear: Core Tech Stack
-
-👉&nbsp; [Project Architecture Diagram](https://lucid.app/lucidchart/invitations/accept/inv_6fab6816-4e33-4ab2-9039-1cab4f972b3d 'YumMeals App Architecture Diagram')
-
 - :arrow_up_small:&nbsp; [Expo](https://expo.io/ 'Expo')
 - :electron:&nbsp;[React Native](https://reactnative.dev/ 'React Native')
 - 🐱&nbsp; [Kitten UI](https://akveo.github.io/react-native-ui-kitten/)
@@ -78,9 +65,9 @@ For this, please refer to the app screenshots below. A mixture of both screensho
     <img src="./assets/screenshots/app-preview-user-settings.png" width="250">
 </p>
 
-## :memo: License <a aria-label="YumMeals is free to use" href="https://choosealicense.com/licenses/mit/" target="_blank"><img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-success.svg?style=flat-square&color=33CC12" target="_blank" /></a>
+## :memo: License <a aria-label="CovidInfo is free to use" href="https://choosealicense.com/licenses/gpl-3.0/" target="_blank"><img alt="[![License: GPL v3]" src="https://img.shields.io/badge/License-GPLv3-blue.svg" target="_blank" /></a>
 
-This project is under the terms of the MIT license. For more information, please refer to the license [documentation](LICENSE.md).
+This project is under the terms of the GNU GPL v3 license. For more information, please refer to the license [documentation](LICENSE.md).
 
 ## :warning: Disclaimer
 
