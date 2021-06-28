@@ -57,12 +57,9 @@ For this, please refer to the app screenshots below. A mixture of both screensho
 ## :camera_flash: Screenshots
 
 <p>
-    <img src="./assets/screenshots/app-preview-1.gif" width="250">
-    <img src="./assets/screenshots/app-preview-map.png" width="250">
-    <img src="./assets/screenshots/app-preview-2.gif" width="250">
-    <img src="./assets/screenshots/app-preview-restaurant-menu.png" width="250">
-    <img src="./assets/screenshots/app-preview-3.gif" width="250">
-    <img src="./assets/screenshots/app-preview-user-settings.png" width="250">
+    <img src="./screenshots/screenshot_1.png" width="250">
+    <img src="./screenshots/screenshot_2.png" width="250">
+    <img src="./screenshots/screenshot_3.png" width="250">
 </p>
 
 ## :memo: License <a aria-label="CovidInfo is free to use" href="https://choosealicense.com/licenses/gpl-3.0/" target="_blank"><img alt="[![License: GPL v3]" src="https://img.shields.io/badge/License-GPLv3-blue.svg" target="_blank" /></a>
