@@ -49,6 +49,7 @@ For this, please refer to the app screenshots below. A mixture of both screensho
 - :electron:&nbsp;[React Native](https://reactnative.dev/ 'React Native')
 - 🐱&nbsp; [Kitten UI](https://akveo.github.io/react-native-ui-kitten/)
 - :link:&nbsp; [React Navigation](https://reactnavigation.org/ 'React Navigation')
+- 🏣&nbsp; [Postman COVID19 API](https://documenter.getpostman.com/view/10808728/SzS8rjbc)
 
 ## :sparkles: Main Features
 
