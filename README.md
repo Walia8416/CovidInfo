@@ -11,6 +11,7 @@ CovidInfo is a React Native app which provides real time Covid-19 data for each 
 
 ## :eyes: Preview
 
+
 [![runs with Expo Go](https://img.shields.io/badge/Runs%20with%20Expo%20Go-4630EB.svg?style=flat-square&logo=EXPO&labelColor=f3f3f3&logoColor=000)](https://expo.io/@idontknow1214/CovidInfo)
 
 ### :1234: Instructions to Preview (_iOS users, see note below_)
@@ -42,7 +43,7 @@ Please refer to this Expo documentation link for further information on this res
 Due to the nature of this project objective being an educational and experimental one in learning more about working with [React Native](https://reactnative.dev/ 'React Native') and the [Expo](https://expo.io/ 'Expo') framework in a production-like environment mimicking a professional workflow, this app isn't built for distributing officially to either the [Play Store](https://play.google.com/store 'Google Play Store') or the [App Store](https://www.apple.com/app-store/ 'App Store').
 
 For this, please refer to the app screenshots below. A mixture of both screenshot pictures and GIFs is provided as an alternative for previewing the app.
-
+### APK - https://www.mediafire.com/file/l3jjvk4rx50plx4/CovidInfo-72f3a7256a7741b7802ffd1f5fb5aaf5-signed.apk/file
 ## :gear: Core Tech Stack
 - :arrow_up_small:&nbsp; [Expo](https://expo.io/ 'Expo')
 - :electron:&nbsp;[React Native](https://reactnative.dev/ 'React Native')
